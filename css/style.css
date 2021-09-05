@@ -1,0 +1,33 @@
+html {
+  background-color:#ebebeb;
+  
+}
+
+img {
+  width: 350px;
+  height: 350px;
+  padding: 7px;
+  border-radius: 25px;
+}
+
+body {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.header {
+  background-color: cadetblue;
+}
+
+#well {
+  padding: 3px;
+  width: 78px;
+}
+
+.low {
+  line-height: 2px;
+}
+
+
