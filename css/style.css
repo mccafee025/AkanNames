@@ -14,7 +14,7 @@ img {
   max-width: 900px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #e8e8e8;
+  background-color: white;
   border-style: groove;
   
 }
@@ -49,12 +49,6 @@ img {
 
 #new {
   background-color:#e8e8e8;
-}
-
-#tower {
-  background-color: black;
-  text-align: center;
-  margin-top: 15px;
 }
 
 
