@@ -1,4 +1,4 @@
-# Akan Name web Generator
+# Akan Name Generator
 
 # Description
 a simple web app to generate akan name
