@@ -1,5 +1,5 @@
 html {
-  background-color:#ebebeb;
+  background-color:#adadad;
 }
 
 img {
@@ -12,15 +12,15 @@ img {
 #yes {
   font-size:medium;
   max-width: 900px;
-  max-height: 1500px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #e7dcdc;
+  background-color: #e8e8e8;
+  border-style: groove;
+  
 }
 
 .header {
   background-color: cadetblue;
-  border-radius: 4px;
   font-size: 16px;
   letter-spacing: 2px;
 }
@@ -36,7 +36,7 @@ img {
 
 #sub {
   color:rgb(15, 240, 15);
-  background-color:  #FFFFFF;
+  background-color:  #e8e8e8;
   font-size: 16px; 
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding: 4px;
@@ -48,7 +48,13 @@ img {
 }
 
 #new {
-  background-color:#FFFFFF;
+  background-color:#e8e8e8;
+}
+
+#tower {
+  background-color: black;
+  text-align: center;
+  margin-top: 15px;
 }
 
 
